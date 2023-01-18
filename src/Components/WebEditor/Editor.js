@@ -23,6 +23,7 @@ function Editor(props) {
           scrollbarStyle: "null",
           lineWrapping: true,
           autoCloseTags: true,
+          autoCorrect:true,
           matchTags: true,
           autoCloseBrackets: true,
           matchBrackets: true,
