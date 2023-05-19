@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/editor.io/static/css/main.750f446e.css",
+    "main.js": "/editor.io/static/js/main.c0596ff4.js",
+    "static/js/787.4d2f29b4.chunk.js": "/editor.io/static/js/787.4d2f29b4.chunk.js",
+    "static/media/hero-img.png": "/editor.io/static/media/hero-img.14dc8f7a4d4b3edb0402.png",
+    "index.html": "/editor.io/index.html",
+    "static/media/shape-1.svg": "/editor.io/static/media/shape-1.14eac0454e76b6258684c9442c3ce692.svg",
+    "static/media/shape-6.svg": "/editor.io/static/media/shape-6.b355e95949c17db2b295997731e0fd9c.svg",
+    "static/media/shape-3.svg": "/editor.io/static/media/shape-3.63e593ae77274c64257dfe4065bcd965.svg",
+    "static/media/shape-2.svg": "/editor.io/static/media/shape-2.f2d172ea533839a33501547cccc827be.svg",
+    "main.750f446e.css.map": "/editor.io/static/css/main.750f446e.css.map",
+    "main.c0596ff4.js.map": "/editor.io/static/js/main.c0596ff4.js.map",
+    "787.4d2f29b4.chunk.js.map": "/editor.io/static/js/787.4d2f29b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750f446e.css",
+    "static/js/main.c0596ff4.js"
+  ]
+}
